@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+insPyred_print.egg-info/PKG-INFO
+insPyred_print.egg-info/SOURCES.txt
+insPyred_print.egg-info/dependency_links.txt
+insPyred_print.egg-info/top_level.txt
+inspyred_print/__init__.py
